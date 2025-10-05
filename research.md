@@ -1,10 +1,15 @@
- # HD page
+---
+layout: default
+title: "Research"
+---
 
-[About](\index.md)  
-[Research](\research.md)  
-[Publication](\publication.md)  
-[Group](\group.md)  
-[Lab](\lab.md)
+# HD page
+
+[About](\index)  
+[Research](\research)  
+[Publication](\publication)  
+[Group](\group)  
+[Lab](\lab)
 
 ## Research
 
