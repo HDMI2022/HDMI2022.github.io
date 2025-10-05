@@ -11,7 +11,7 @@ title: "Publication"
 [Group](\group)  
 [Lab](\lab)
 
-## Research
+## Publication
 
 R. Gao, F. Wu, H. Sun, J. Chen, **H. Deng**, X. Ma, X. Miao, Z, Song, X. Wan, F. Wang, T. Via, M. Ying, C. Zhang, Y. Shi, H. Zhao, C. Deng, The Effects of Disorder in Superconducting Materials on Qubit Coherence, Nat. Commun. 16, 3620 (2025)
 
@@ -57,3 +57,4 @@ S. Hasdemir, Y. Liu, **H. Deng**, M. Shayegan, L. Pfeiffer, K. West, K. Baldwin,
 
 <sup>\*</sup> Communication author  
 <sup>†</sup> First author
+
